@@ -1,0 +1,7 @@
+version: '3.0'
+services:
+  game:
+    build: .
+    volumes:
+      - ./save:/var/games/nethack/save
+      - ./.nethackrc:/root/.nethackrc

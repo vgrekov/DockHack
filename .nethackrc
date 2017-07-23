@@ -1,0 +1,15 @@
+OPTIONS=align:chaotic
+OPTIONS=pickup_types:$
+OPTIONS=boulder:0
+OPTIONS=catname:Mao
+OPTIONS=dogname:Brian
+OPTIONS=gender:male
+OPTIONS=hilite_pet
+OPTIONS=horsename:BoJack
+OPTIONS=!mail
+OPTIONS=name:Viktor
+OPTIONS=race:human
+OPTIONS=role:Rogue
+OPTIONS=showexp
+OPTIONS=time
+OPTIONS=DECgraphics
